@@ -1,1 +1,1 @@
-# Project-Title-Stock-and-Supply-Monitoring-Management-System
+Many schools and offices still track supplies using paper logbooks or basic spreadsheets, which often leads to mistakes and unexpected shortages. To solve this, we developed the Stock and Supply Monitoring Management System, a Java-based program that simplifies inventory tracking. It allows staff to easily check stock levels, add new items, and automatically log every transaction, while enabling users to request supplies with real-time availability updates and low-stock alerts to keep inventory organized.
